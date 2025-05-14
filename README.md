@@ -47,6 +47,7 @@ jdbc:postgresql://localhost:5432/Pc-Builder postgres postgres
 1. Register
 2. Login
 0. Exit
+
 ======================
 
 Choose an option: 2
@@ -63,6 +64,7 @@ Login successful. Welcome, fares!
 3. Get Wikipedia information for a component
 4. Build your own PC
 0. Exit
+
 == ==========================
 
 Enter your choice: 1
@@ -84,5 +86,9 @@ Asus TUF Gaming GT501 ATX Mid Tower   154.99     White / Black Case
 3. Get Wikipedia information for a component
 4. Build your own PC
 0. Exit
+
 ============================
 Enter your choice: 
+
+============================
+A unit test was added by the help of ChatGPT
